@@ -1,4 +1,4 @@
-# [![kurian header](<img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=centre>)]
+# <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=centre>
 ### Hi there 👋
 
 <!--
