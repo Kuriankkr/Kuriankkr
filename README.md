@@ -1,4 +1,4 @@
-# <img width="1500" height="150" src= "https://media.giphy.com/media/9B8wYztAoe1zO/source.gif">
+# <img width="1500" height="200" src= "https://media.giphy.com/media/9B8wYztAoe1zO/source.gif">
 
 
 ### Hi there 👋
