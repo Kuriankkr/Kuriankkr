@@ -1,3 +1,6 @@
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!
+ </h1>
+
 ### Hi there 👋
 
 <!--
