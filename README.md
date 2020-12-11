@@ -1,4 +1,7 @@
-# <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=centre>
+<p align="center">
+  <img width="460" height="300" src= "https://media.giphy.com/media/9B8wYztAoe1zO/source.gif">
+</p>
+
 ### Hi there 👋
 
 <!--
