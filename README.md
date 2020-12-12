@@ -10,6 +10,7 @@
 
 
 ## Hey there 👋
+I am an Industrial Engineering graduate at <img src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Ohio_State.png" width="30">  
 
 <!--
 **Kuriankkr/Kuriankkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
