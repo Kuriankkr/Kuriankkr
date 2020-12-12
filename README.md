@@ -10,7 +10,7 @@
 
 
 ## Hey there 👋
-I am an Industrial Engineering graduate at **<img src= "https://github.com/Kuriankkr/Kuriankkr/blob/main/Ohio_st.png" width="20">**   specializing in Operatrions Research. I 
+I am an Industrial Engineering graduate at **<img src= "https://github.com/Kuriankkr/Kuriankkr/blob/main/Ohio_st.png" width="20">**  with a background in operations research and data analytics. I work as a part time student research assistant applying predicitive modelling techniques to material science. I like to identify challenging problems that I face or the community around me faces and come up with a solution with the skill sets that I have. More often that not! I end up realizing I have to read more, learn more, code more when tackling these challenges and this is why I love the field I work in. When I am not coding, I try practicing to learn the violin and I am getting better at it everyday. 
 
 <!--
 **Kuriankkr/Kuriankkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
