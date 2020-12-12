@@ -3,6 +3,7 @@
 
 <p align='center'>
 <a href="kuriankannathraphy@gmail.com"><img height="30" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Gmail_logo.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kuriankannath/"><img height="30" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Gmail_logo.png"></a>&nbsp;&nbsp;  
 </p>
 
 
