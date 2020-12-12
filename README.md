@@ -5,7 +5,7 @@
 <a href="mailto:kuriankannathraphy@gmail.com"><img height="50" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Gmail_logo.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kuriankannath/"><img height="50" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Linkedin_logo.png"></a>&nbsp;&nbsp; 
 <a href="https://join.skype.com/invite/xjOU9MBygr5d"><img height="50" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Skype_icon_logo.png"></a>&nbsp;&nbsp;  
-<a href="https://wa.me/16142829209"><img height="70" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/whatsapp_log.png"></a>&nbsp;&nbsp;
+<a href="https://wa.me/16142829209"><img height="70" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/whatsapp_logo%20(2).png"></a>&nbsp;&nbsp;
 </p>
 
 
