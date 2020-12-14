@@ -21,8 +21,13 @@
 I am an Industrial Engineering graduate at **<img src= "https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Ohio_st.png" width="20">**  with a background in **operations research and data analytics**. I work as a part time **student research assistant** applying predicitive modelling techniques in material science domain. I like to identify challenging problems that I face around me and try coming up with possible solutions with the skill sets that I have. More often that not! I end up realizing I have to read more, learn more, code more when tackling these problems and this is why I love the field I work in! When I am not coding, I try my luck on my violin and and some new dishes!
 
 
-## [**BlueBook for Bulldozers**](https://github.com/Kuriankkr/Bluebook-for-Bulldozers)
-One of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click on the title or [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers> to dive into the notebooks)
+
+
+<p>
+  <img width="250" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
+</p>
+## BlueBook for Bulldozers
+One of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click on the title or [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers) to dive into the notebooks
 <!--
 **Kuriankkr/Kuriankkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
