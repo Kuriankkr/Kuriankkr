@@ -30,11 +30,10 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 
 <p>
   <img width="100" height = "100" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid_19_dashboard.jpg">
-</p
+</p>
     
-## Covid-19 Dashboards and Visualization
 
-
+## Covid-19 Dashboard
 These dashboards and visualization notebooks originated because of the pandemic around me and I thought this was little way of contributing to the pandemic apart from socially distancing and following the CDC guidelines 🙏. Click [here](https://github.com/Kuriankkr/Covid19_Data_Analysis) to dive into them.
 
 ---
