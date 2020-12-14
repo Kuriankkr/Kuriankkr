@@ -26,6 +26,7 @@ I am an Industrial Engineering graduate at **<img src= "https://github.com/Kuria
 <p>
   <img width="250" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
 </p>
+
 ## BlueBook for Bulldozers
 One of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click on the title or [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers) to dive into the notebooks
 <!--
