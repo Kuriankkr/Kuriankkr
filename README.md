@@ -31,7 +31,7 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 
 
 <p>
-  <img width="250" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
+  <img width="300" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
 </p>
 
 
