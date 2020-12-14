@@ -27,12 +27,17 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 
 
 ---
+<p>
+  <img width="300" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid_19_dashboard.jpg">
+</p
 
 
+## Covid-19 Dashboards and Visualization
+These dashboards and visualization notebooks originated because of the pandemic around me and I thought this was little way of contributing to the pandemic apart from socially distancing and following the CDC guidelines 🙏. Click [here](https://github.com/Kuriankkr/Covid19_Data_Analysis) to dive into them
 
 
 <p>
-  <img width="300" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
+  <img width="300" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
 </p>
 
 
@@ -42,7 +47,7 @@ One of the first projects that I worked on and it helped me learn a lot! It invo
 ---
 
 <p>
-  <img width="300" height = "250" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Supermarket.jpg">
+  <img width="300" height = "250" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Supermarket.jpg">
 </p>
 
 ## Predict Future Sales
