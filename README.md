@@ -9,11 +9,16 @@
 </p>
 
 
+
 # Hey there 👋 Welcome!
 
 ## A little bit about me....
 
-I am an Industrial Engineering graduate at **<img src= "https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Ohio_st.png" width="20">**  with a background in **operations research and data analytics**. I work as a part time **student research assistant** applying predicitive modelling techniques in material science domain. I like to identify challenging problems that I face around me and try coming up with possible solutions with the skill sets that I have. More often that not! I end up realizing I have to read more, learn more, code more when tackling these problems and this is why I love the field I work in. When I am not coding, I try my luck on my violin and and some new dishes!
+<p>
+  <img width="250" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Data_Science.jpg">
+</p>
+
+I am an Industrial Engineering graduate at **<img src= "https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Ohio_st.png" width="20">**  with a background in **operations research and data analytics**. I work as a part time **student research assistant** applying predicitive modelling techniques in material science domain. I like to identify challenging problems that I face around me and try coming up with possible solutions with the skill sets that I have. More often that not! I end up realizing I have to read more, learn more, code more when tackling these problems and this is why I love the field I work in! When I am not coding, I try my luck on my violin and and some new dishes!
 <!--
 **Kuriankkr/Kuriankkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
