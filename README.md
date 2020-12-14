@@ -27,26 +27,28 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 
 
 ---
+
+
 <p>
   <img width="150" height = "150" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid.jpg">
 </p
 
 
+
 # Covid-19 Dashboards and Visualization
 
-These dashboards and visualization notebooks originated because of the pandemic around me and I thought this was little way of contributing to the pandemic apart from socially distancing and following the CDC guidelines 🙏. Click [here](https://github.com/Kuriankkr/Covid19_Data_Analysis) to dive into them
+These dashboards and visualization notebooks originated because of the pandemic around me and I thought this was little way of contributing to the pandemic apart from socially distancing and following the CDC guidelines 🙏. Click [here](https://github.com/Kuriankkr/Covid19_Data_Analysis) to dive into them.
+
+
 
 ---
-
-<p>
-  <img width="300" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
-</p>
-
-
 
 ## BlueBook for Bulldozers
 One of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers) to dive into the notebooks
 
+<p>
+  <img width="300" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
+</p>
 ---
 
 <p>
