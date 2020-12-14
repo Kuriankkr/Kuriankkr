@@ -29,7 +29,7 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 ---
 
 <p>
-  <img width="100" height = "150" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid.jpg">
+  <img width="200" height = "150" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid.jpg">
 </p>
     
 
