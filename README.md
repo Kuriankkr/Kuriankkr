@@ -28,7 +28,7 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 
 ---
 <p>
-  <img width="300" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid_19_dashboard.jpg">
+  <img width="150" height = "150" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid.jpg">
 </p
 
 
