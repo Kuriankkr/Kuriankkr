@@ -49,7 +49,7 @@ One of the first projects that I worked on and it helped me learn a lot! It invo
 ---
 
 <p>
-  <img width="300" height = "250" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Supermarket.jpg">
+  <img width="250" height = "250" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Supermarket.jpg">
 </p>
 
 ## Predict Future Sales
