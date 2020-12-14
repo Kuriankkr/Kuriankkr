@@ -42,7 +42,7 @@ One of the first projects that I worked on and it helped me learn a lot! It invo
 ---
 
 <p>
-  <img width="300" height = "230" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Supermarket.jpg">
+  <img width="300" height = "250" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Supermarket.jpg">
 </p>
 
 ## Predict Future Sales
