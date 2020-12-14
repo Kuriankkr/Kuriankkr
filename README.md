@@ -40,6 +40,18 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 One of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers) to dive into the notebooks
 
 ---
+
+<p>
+  <img width="300" height = "230" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Supermarket.jpg">
+</p>
+
+## Predict Future Sales
+I like to use data science specifically to predict the sales of items(an area of my interest), be it the tractors project ☝️ or in this project where the goal was to predict the total amount of products sold in every shop for a supermarket chain. 
+
+I had borrowed techniques from other fellow Kagglers and learnt a lot on the kind of strategies and technique that one should look into during feature engineering. This notebook focuses heavily on feature engineering that captures the trend of previous sales. Click [here](https://github.com/Kuriankkr/Predict-Future-Sales) to dive into the notebooks
+
+---
+
 <!--
 **Kuriankkr/Kuriankkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
