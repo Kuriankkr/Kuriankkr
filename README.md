@@ -25,7 +25,8 @@ I like to identify challenging problems that I face around me and try coming up 
 
 Below are some of my personal projects and capstone projects (as a part of online courses thaT I have undertaken) that I would like the world to see!
 
- ---
+
+---
 
 
 
@@ -37,6 +38,8 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 
 ## BlueBook for Bulldozers
 One of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers) to dive into the notebooks
+
+---
 <!--
 **Kuriankkr/Kuriankkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
