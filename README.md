@@ -23,6 +23,7 @@ I am an Industrial Engineering graduate at **<img src= "https://github.com/Kuria
 
 I like to identify challenging problems that I face around me and try coming up with possible solutions with the skill sets that I have. More often that not! I end up realizing I have to read more, learn more, code more when tackling these problems and this is why I love the field I work in! When I am not coding, I try my luck on my violin and and some new dishes!
 
+I am currently working on a  side project of my own as well as my research. Below are some of my personal projects and capstone projects (as a part of online courses thaT I have undertaken) that I have posted on Github
 
  ---
 
