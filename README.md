@@ -29,6 +29,16 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 ---
 
 <p>
+  <img width="200" height = "150" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/udacity.png">
+</p>
+
+
+## Udacity Nanodegree Data Engineering Program
+This repository contains the projects that I have done as a part of the **Udacity Nanodegree Data Engineering program**. This is a beginner level course that taught me tools such as **Apache Spark**, **Apache Airflow**, **Postgre SQL** and how to interface with AWS's services such as **EC2 instances** and **S3 buckets**. Click [here](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/README.md) to look at the projects
+
+---
+
+<p>
   <img width="200" height = "150" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid.jpg">
 </p>
     
