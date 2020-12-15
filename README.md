@@ -39,7 +39,7 @@ This repository contains the projects that I have done as a part of the **Udacit
 ---
 
 <p>
-  <img width="200" height = "150" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid.jpg">
+  <img width="200" height = "130" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Covid.jpg">
 </p>
     
 
