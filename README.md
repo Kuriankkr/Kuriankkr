@@ -81,6 +81,15 @@ I had borrowed techniques from other fellow Kagglers and learnt a lot on the kin
 
 ---
 
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=appveyor=linux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=appveyor=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=appveyor=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=appveyor=docker&logoColor=white&color=blue)
+
+
 <!--
 **Kuriankkr/Kuriankkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
