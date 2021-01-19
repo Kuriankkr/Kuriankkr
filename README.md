@@ -45,7 +45,7 @@ Click [here](https://ohio-state-listing-prediction.herokuapp.com/) to go to the 
 </p>
 
 
-## Udacity Nanodegree Data Engineering Program
+## [Udacity Nanodegree Data Engineering Program](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/README.md)
 This repository contains the projects that I have done as a part of the **Udacity Nanodegree Data Engineering program**. This is a beginner level course that taught me tools such as **Apache Spark**, **Apache Airflow**, **Postgre SQL** and how to interface with AWS's services such as **EC2 instances** and **S3 buckets**. Click [here](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/README.md) to look at the projects
 
 ---
@@ -55,7 +55,7 @@ This repository contains the projects that I have done as a part of the **Udacit
 </p>
     
 
-## Covid-19 Dashboard
+## [Covid-19 Dashboard](https://github.com/Kuriankkr/Covid19_Data_Analysis)
 These dashboards and visualization notebooks originated because of the pandemic around me and I thought this was little way of contributing to the pandemic apart from socially distancing and following the CDC guidelines 🙏. Click [here](https://github.com/Kuriankkr/Covid19_Data_Analysis) to dive into them.
 
 ---
@@ -64,7 +64,7 @@ These dashboards and visualization notebooks originated because of the pandemic 
   <img width="300" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/download.png">
 </p>
 
-## BlueBook for Bulldozers
+## [BlueBook for Bulldozers](https://github.com/Kuriankkr/Bluebook-for-Bulldozers)
 One of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers) to dive into the notebooks
 
 
@@ -74,7 +74,7 @@ One of the first projects that I worked on and it helped me learn a lot! It invo
   <img width="250" height = "250" align='left' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Supermarket.jpg">
 </p>
 
-## Predict Future Sales
+## [Predict Future Sales](https://github.com/Kuriankkr/Predict-Future-Sales)
 I like to use data science specifically to predict the sales of items(an area of my interest), be it the tractors project ☝️ or in this project where the goal was to predict the total amount of products sold in every shop for a supermarket chain. 
 
 I had borrowed techniques from other fellow Kagglers and learnt a lot on the kind of strategies and technique that one should look into during feature engineering. This notebook focuses heavily on feature engineering that captures the trend of previous sales. Click [here](https://github.com/Kuriankkr/Predict-Future-Sales) to dive into the notebooks
