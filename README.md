@@ -34,7 +34,7 @@ Below are some of my personal projects and capstone projects (as a part of onlin
 
 ## Ohio State Listings Rent Prediction Model
 This repository is my first end-to-end project that I worked over the winter break to host a website that would help predict the rent for appartment listings around Ohio State
-University. It was a good learning curve for me and I employed multiple tools in the process of developing this website
+University. It was a good learning curve for me and I employed multiple tools in the process of developing this website.
 Click [here](https://ohio-state-listing-prediction.herokuapp.com/) to go to the website and click [here](https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model) to take a look into the repository. 
 
 ---
