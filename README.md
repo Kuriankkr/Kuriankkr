@@ -12,7 +12,7 @@
 
 # Hey there 👋 Welcome!
 
-## A little bit about me....
+## A little bit about me...
 
 <p>
   <img width="250" align='right' src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Data_Science.jpg">
