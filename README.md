@@ -1,4 +1,4 @@
-# <img width="1700" height="150" src= "https://media.giphy.com/media/9B8wYztAoe1zO/source.gif">
+# <img width="1800" height="150" src= "https://media.giphy.com/media/9B8wYztAoe1zO/source.gif">
 
 
 <p align='center'>
