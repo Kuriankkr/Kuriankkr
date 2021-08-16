@@ -2,7 +2,7 @@
 
 
 <p align='center'>
-<a href="mailto:kuriankannathraphy@gmail.com"><img height="50" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Gmail_logo.png"></a>&nbsp;&nbsp;
+<a href="mailto:kannathkurian@gmail.com"><img height="50" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Gmail_logo.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kuriankannath/"><img height="50" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Linkedin_logo.png"></a>&nbsp;&nbsp; 
 <a href="https://join.skype.com/invite/xjOU9MBygr5d"><img height="50" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/Skype_icon_logo.png"></a>&nbsp;&nbsp;  
 <a href="https://wa.me/16142829209"><img height="60" src="https://github.com/Kuriankkr/Kuriankkr/blob/main/Images/whatsapp_logo%20(2).png"></a>&nbsp;&nbsp;
